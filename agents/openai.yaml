@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Opportunity Research"
+  short_description: "Evaluate demand, competitors, and commercial paths"
+  default_prompt: "Use $market-opportunity-research to evaluate my business idea using current evidence and propose a first paid validation experiment."

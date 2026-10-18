@@ -1,0 +1,28 @@
+# Local environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+secrets/
+private/
+credentials.json
+
+# Unpublished research and personal data
+private-research/
+customer-data/
+notes-private/
+
+# Generated release files
+dist/
+*.zip
+
+# Python/editor/system
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
